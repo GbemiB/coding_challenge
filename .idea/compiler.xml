@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="New" />
         <module name="CodingChallenge" />
+        <module name="CODINGCHALLENGE" />
       </profile>
     </annotationProcessing>
   </component>

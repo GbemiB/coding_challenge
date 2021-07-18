@@ -1,4 +1,4 @@
-package com.codingchallenge;
+package com.codingchallenge.methods;
 
 public class RepeatStrings {
         public static void main(String[] args) {
