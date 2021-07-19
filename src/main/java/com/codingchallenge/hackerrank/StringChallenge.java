@@ -16,9 +16,9 @@ public class StringChallenge {
             Scanner input = new Scanner(System.in);
             System.out.print("Enter first name ");
             s1 = input.nextLine(); // extra line
-            System.out.print("Enter i1 value ");
+            System.out.print("Enter age value ");
             i1 = input.nextInt();
-            System.out.print("Enter d2 value ");
+            System.out.print("Enter egg numbers ");
             d1 = input.nextDouble();
             input.close();
 

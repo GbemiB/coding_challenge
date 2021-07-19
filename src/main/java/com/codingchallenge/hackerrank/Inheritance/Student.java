@@ -2,7 +2,7 @@ package com.codingchallenge.hackerrank.Inheritance;
 
 import java.util.Scanner;
 
-class Student extends Person {
+class Student  {
         private String firstName;
         private String lastName;
         private int idNumber;
@@ -11,17 +11,15 @@ class Student extends Person {
         int a = 0;
 
 
-        public Student(String firstName, String lastName, int id, int[] testScores) {
-            super(firstName, lastName, id);
-            this.testScores = testScores;
-            this.firstName = firstName;
-            this.lastName = lastName;
-            this.idNumber = id;
-        }
+//        public Student(String firstName, String lastName, int id, int[] testScores) {
+//            super(firstName, lastName, id);
+//            this.testScores = testScores;
+//            this.firstName = firstName;
+//            this.lastName = lastName;
+//            this.idNumber = id;
+//        }
 
         //method
-
-
         public char calculate() {
 
              for (int i = 0; i < testScores.length; i++) {
