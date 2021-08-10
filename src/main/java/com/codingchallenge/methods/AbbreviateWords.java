@@ -1,6 +1,6 @@
 package com.codingchallenge.methods;
 
-public class AbbrivateWords {
+public class AbbreviateWords {
 
         public static void main(String[] args) {
             String name = "Bello Gbemisola";

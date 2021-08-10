@@ -9,6 +9,10 @@ public abstract class  Book { //Already duplicated thus commented out
         this.author = author;
     }
 
+    public Book() {
+
+    }
+
     abstract void display();
 }
 
