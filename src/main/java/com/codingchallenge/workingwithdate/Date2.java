@@ -2,11 +2,15 @@ package com.codingchallenge.workingwithdate;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.time.LocalDate;
 import java.util.Date;
 
 public class Date2 {
     public static void main(String args[]){
+        LocalDate date14 = LocalDate.now();
+        System.out.println(date14);
         Date date = new Date();
+        System.out.println(date);
         SimpleDateFormat dateExample = new SimpleDateFormat("YYYY/MM/dd");
         String myDate = dateExample.format(date);
         System.out.println(myDate);

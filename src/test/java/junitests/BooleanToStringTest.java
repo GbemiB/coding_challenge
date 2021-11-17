@@ -1,6 +1,6 @@
-package codewartests;
+package junitests;
 
-import com.codingchallenge.codewar.BooleanToString;
+import com.codingchallenge.junit.BooleanToString;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

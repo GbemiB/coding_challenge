@@ -1,6 +1,6 @@
-package codewartests;
+package junitests;
 
-import com.codingchallenge.codewar.CalculateBmi;
+import com.codingchallenge.junit.CalculateBmi;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

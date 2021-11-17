@@ -9,6 +9,7 @@
         <module name="New" />
         <module name="CodingChallenge" />
         <module name="CODINGCHALLENGE" />
+        <module name="coding_challenge" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,4 +1,4 @@
-package com.codingchallenge.codewar;
+package com.codingchallenge.junit;
 
 public class BooleanToString {
         public static String convert(boolean b){

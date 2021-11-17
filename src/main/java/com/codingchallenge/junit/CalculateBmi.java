@@ -1,4 +1,4 @@
-package com.codingchallenge.codewar;
+package com.codingchallenge.junit;
 
 public class CalculateBmi {
         public static String bmi ( double weight, double height){
