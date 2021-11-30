@@ -1,0 +1,18 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËãÙƒ
+?
+java:S1659"$Declare "second" on a separate line.(«ğ™¼üÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(èÿÛª
+E
+java:S6212"/Declare this local variable with "var" instead.(ÿúá·
+J
+java:S6212"/Declare this local variable with "var" instead.(½ÊÌÂùÿÿÿÿ
+D
+java:S6212'"/Declare this local variable with "var" instead.(£¹±S
+K
+java:S6212€"/Declare this local variable with "var" instead.(ì¬âÑüÿÿÿÿ
+K
+java:S6212"/Declare this local variable with "var" instead.(‘šÉıÿÿÿÿ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(‰«†²
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(¿²æìúÿÿÿÿ

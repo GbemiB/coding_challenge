@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õûñÎûÿÿÿÿ
+J
+java:S6212	"/Declare this local variable with "var" instead.(•®§­þÿÿÿÿ
+G
+java:S1874	",Remove this use of "Date"; it is deprecated.(•®§­þÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ã•Ñì
+B
+java:S1874",Remove this use of "Date"; it is deprecated.(ã•Ñì
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(«†ï®

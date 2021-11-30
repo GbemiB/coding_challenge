@@ -1,0 +1,51 @@
+
+\
+java:S21842"FCast one of the operands of this multiplication operation to a "long".(Òû§©
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥õÎá
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õûñÎûÿÿÿÿ8ùÈÄÌÖ/
+N
+java:S1854"9Remove this useless assignment to local variable "date1".(¸ñÛR
+T
+java:S1854"9Remove this useless assignment to local variable "date3".(“ëŸ†úÿÿÿÿ
+S
+java:S1197	"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+J
+java:S6212
+"/Declare this local variable with "var" instead.(®ÿØœıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬Œ³¢
+J
+java:S6212"/Declare this local variable with "var" instead.(”Ç©šùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²¨ç÷
+E
+java:S6212"/Declare this local variable with "var" instead.(‹ø‚¤
+^
+java:S3986"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(‹ø‚¤
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶ØİÄşÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(¥õÎá
+D
+java:S6212"/Declare this local variable with "var" instead.(¸ñÛR
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·áè
+J
+java:S6212"/Declare this local variable with "var" instead.(“ëŸ†úÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(¼¿ù¸şÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ó”‘Ÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒì¶úÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.( ÃÔ–úÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¾Õ¸ºşÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ûàìÀ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(“åí´ùÿÿÿÿ
+J
+java:S6212,"/Declare this local variable with "var" instead.(ïÈé‘şÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(âö¶¸úÿÿÿÿ
+t
+java:S21424"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ÅäÛô
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ÅäÛô
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(ëÇùÊ
+?
+java:S1481"*Remove this unused "date1" local variable.(¸ñÛR
+E
+java:S1481"*Remove this unused "date3" local variable.(“ëŸ†úÿÿÿÿ

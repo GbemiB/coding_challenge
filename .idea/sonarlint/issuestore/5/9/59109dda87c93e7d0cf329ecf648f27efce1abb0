@@ -1,0 +1,9 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à½†úÿÿÿÿ
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õûñÎûÿÿÿÿ8‡×ÂÌÖ/
+J
+java:S6212"/Declare this local variable with "var" instead.(à½†úÿÿÿÿ
+J
+java:S6212	"/Declare this local variable with "var" instead.(¿ÍÜŞüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ù‡‘Ùşÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(âÖ	

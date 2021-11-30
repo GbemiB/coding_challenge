@@ -1,0 +1,30 @@
+
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×à÷4
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×à÷4
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´êõûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‘íÉ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÏˆÁ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“®÷Çüÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¨Ú£ıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óíªÀüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õûñÎûÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(“¸”¦ÿÿÿÿÿ
+c
+java:S3986"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(“¸”¦ÿÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ĞÆ¨â
+E
+java:S6212"/Declare this local variable with "var" instead.(Şû¼š
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û¬ñĞÿÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÆÀûı
+S
+java:S1854;"8Remove this useless assignment to local variable "join".(Õ¼Ïûÿÿÿÿ
+J
+java:S6212;"/Declare this local variable with "var" instead.(Õ¼Ïûÿÿÿÿ
+J
+java:S6212<"/Declare this local variable with "var" instead.(ñ§™¹úÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(²¨ç÷
+Q	java:S125@"<This block of commented-out lines of code should be removed.(ä™åƒ
+D
+java:S1481;")Remove this unused "join" local variable.(Õ¼Ïûÿÿÿÿ

@@ -4,10 +4,11 @@ import java.util.List;
 
 public class HourGlassSum {
     public static void main(String[] args) {
-        int[][] array = new int[][]{{1, 1, 1, 0, 0, 0}, {0, 1, 0 ,0, 0 ,0},
-                {1, 1, 1, 0, 0, 0}, {0, 0, 2, 4, 4, 0}, {0, 0,0, 2, 0 ,0},{0, 0, 1, 2, 4, 0} };
+//        int[][] array = new int[][]{{1, 1, 1, 0, 0, 0}, {0, 1, 0 ,0, 0 ,0},
+//                {1, 1, 1, 0, 0, 0}, {0, 0, 2, 4, 4, 0}, {0, 0,0, 2, 0 ,0},{0, 0, 1, 2, 4, 0} };
 
-        //hourGlassSum(array);
+     //   hourGlassSum(array);
+
 
     }
       //using list not array

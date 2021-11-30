@@ -1,0 +1,16 @@
+
+L
+java:S6212"/Declare this local variable with "var" instead.(Ç­‚û8õç¹ÌÖ/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹ãæœ
+[
+java:S2133">Remove this object instantiation and use "User.class" instead.(Ç­‚û8öç¹ÌÖ/
+J
+java:S6212
+"/Declare this local variable with "var" instead.(¦å“Òüÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(»³½‹
+_
+java:S20946"BRemove this empty class, write its code or make it an "interface".(±×à²8úç¹ÌÖ/
+V	java:S125"<This block of commented-out lines of code should be removed.(ð«ÂÆøÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(ÿŽƒøÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(õ–ôÄùÿÿÿÿ
