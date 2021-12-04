@@ -1,19 +1,20 @@
 package com.codingchallenge.hackerrank.Abstract;
 
-class MyBook extends Book{
+//class MyBook extends Book{
+class MyBook{
         int price;
 
 
     public MyBook(String title, String author, int price) {
-        super(title, author);
+//        super(title, author);
         this.price = price;
 
     }
 
         void display()
         {
-            System.out.println("Title: "+ title);
-            System.out.println("Author: "+ author);
+          //  System.out.println("Title: "+ title);
+          //  System.out.println("Author: "+ author);
             System.out.println("Price: "+price);
         }
     }

@@ -1,16 +1,23 @@
 package com.codingchallenge.hackerrank;
 
 public class ConvertingStringToInteger {
-    String S;
-    /*
-    try {
-        Integer i = Integer.parseInt(S);
-        System.out.println(i);
-    }
-    catch (Exception exception) {
-        System.out.println("Bad String");
-    }
+  public static void main(String[] args) {
+      try {
+          String StringValue = null;
 
-     */
+          Integer intValue = Integer.parseInt(StringValue);
+
+          System.out.println(intValue);
+
+      } catch (Exception ex){
+          ex.fillInStackTrace();
+      }
+
+  }
 
 }
+
+
+
+
+

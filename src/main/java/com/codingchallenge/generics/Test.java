@@ -2,7 +2,7 @@ package com.codingchallenge.generics;
 
    class Test<T, U> {
        T cap;   //Object of type T
-       U hat;    // Obkect of type U
+       U hat;    // Object of type U
 
        public Test(T cap, U hat) {
            this.cap = cap;

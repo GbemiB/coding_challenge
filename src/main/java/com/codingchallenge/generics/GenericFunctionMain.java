@@ -3,9 +3,8 @@ package com.codingchallenge.generics;
 public class GenericFunctionMain {
     public static void main(String[] args)
     {
-        // Calling generic method with Integer argument
-        //genericDisplay(11);
-
+//         Calling generic method with Integer argument
+//        genericDisplay(11);
 
         // Calling generic method with String argument
         //genericDisplay("GeeksForGeeks");
