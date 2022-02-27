@@ -1,0 +1,72 @@
+
+H
+java:S1199+"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "myValue".(•ŸÃ¯ÿÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘
+J
+java:S6212"/Declare this local variable with "var" instead.(ĞÙü¡şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(üƒóB
+N	java:S106"9Replace this use of System.out or System.err by a logger.(éË¡Ô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ç—ìÁ
+J
+java:S6212"/Declare this local variable with "var" instead.(•ŸÃ¯ÿÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ğ²µñüÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(äŸ şÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(üƒ‹ìùÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(±úôÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Á°…²ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­£¤ª
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾´½Û
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§Şåµşÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(‘†¿ïùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(äÂ–
+E
+java:S6212"/Declare this local variable with "var" instead.(“ØœÜ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢¬‰
+N	java:S106""9Replace this use of System.out or System.err by a logger.( ˜œÖ
+J
+java:S6212%"/Declare this local variable with "var" instead.(¤¤Ñûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Îóæóşÿÿÿÿ
+J
+java:S6212)"/Declare this local variable with "var" instead.(„ÔŠéşÿÿÿÿ
+C
+java:S1125*"(Remove the unnecessary boolean literals.(Şä›Üøÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.( õ¥÷øÿÿÿÿ
+E
+java:S6212/"/Declare this local variable with "var" instead.(ÆÖ‚˜
+J
+java:S62120"/Declare this local variable with "var" instead.(ÿò«Äüÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Ñ–ë 
+>
+java:S11254"(Remove the unnecessary boolean literals.(ëÀí†
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(“ø÷ûÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(È¨Ø¦úÿÿÿÿ
+J
+java:S62129"/Declare this local variable with "var" instead.(ÍÊşúÿÿÿÿ
+E
+java:S6212:"/Declare this local variable with "var" instead.(àˆæ¤
+E
+java:S6212;"/Declare this local variable with "var" instead.(Òüôà
+J
+java:S6212<"/Declare this local variable with "var" instead.(ÅáÀøÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(Äİä“ıÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(Äİä“ıÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(€ºİåùÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(µ³†³ûÿÿÿÿ
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(Øş‚â
+7
+java:S1116f"Remove this empty statement.(¡Çòçøÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(Ãƒ°óşÿÿÿÿ
+G
+java:S1481",Remove this unused "myValue" local variable.(•ŸÃ¯ÿÿÿÿÿ
+E
+java:S1481a"*Remove this unused "hours" local variable.(ÂÜÚƒşÿÿÿÿ
+P
+java:S1481b"5Remove this unused "remainingMinutes" local variable.(ÍÚ¸“øÿÿÿÿ
