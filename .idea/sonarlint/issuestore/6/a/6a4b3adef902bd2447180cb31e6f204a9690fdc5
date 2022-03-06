@@ -1,0 +1,60 @@
+
+h
+java:S1192""MDefine a constant instead of duplicating this literal "ResponseCode" 3 times.(©Ç‡Šüÿÿÿÿ
+b
+java:S1192%"LDefine a constant instead of duplicating this literal "Successful." 3 times.(„ð¼Ù
+o
+java:S1192#"TDefine a constant instead of duplicating this literal "ResponseDescription" 3 times.(®ŠÐùÿÿÿÿ
+[
+java:S1854""@Remove this useless assignment to local variable "responseCode".(©Ç‡Šüÿÿÿÿ
+M
+java:S1854!"7Remove this useless assignment to local variable "bad".(ò¡‹Õ
+S
+java:S1854 "8Remove this useless assignment to local variable "good".(¦ÃÙ¨øÿÿÿÿ
+S
+java:S1854E"=Remove this useless assignment to local variable "respData2".(è‹‹„
+V
+java:S1854D";Remove this useless assignment to local variable "mapper2".(ïüÝ²þÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(®¬“®úÿÿÿÿ
+M
+java:S6126"2Replace this String concatenation with Text block.(®¬“®úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇòÄõúÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(”²·ù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿‰Ø»ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ
+J
+java:S6212 "/Declare this local variable with "var" instead.(¦ÃÙ¨øÿÿÿÿ
+E
+java:S6212!"/Declare this local variable with "var" instead.(ò¡‹Õ
+J
+java:S6212""/Declare this local variable with "var" instead.(©Ç‡Šüÿÿÿÿ
+J
+java:S6212#"/Declare this local variable with "var" instead.(®ŠÐùÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(…ùŸàýÿÿÿÿ
+E
+java:S6212,"/Declare this local variable with "var" instead.(à Ó»
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Ã”…ªûÿÿÿÿ
+J
+java:S6212/"/Declare this local variable with "var" instead.(ÐÏáúÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(šý£„
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(šý£„
+E
+java:S6212;"/Declare this local variable with "var" instead.(ÕØŸ‡
+H
+java:S6126;"2Replace this String concatenation with Text block.(ÕØŸ‡
+J
+java:S6212D"/Declare this local variable with "var" instead.(ïüÝ²þÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(®±š
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(®±š
+D
+java:S1481 ")Remove this unused "good" local variable.(¦ÃÙ¨øÿÿÿÿ
+>
+java:S1481!"(Remove this unused "bad" local variable.(ò¡‹Õ
+L
+java:S1481""1Remove this unused "responseCode" local variable.(©Ç‡Šüÿÿÿÿ
+G
+java:S1481D",Remove this unused "mapper2" local variable.(ïüÝ²þÿÿÿÿ
+D
+java:S1481E".Remove this unused "respData2" local variable.(è‹‹„

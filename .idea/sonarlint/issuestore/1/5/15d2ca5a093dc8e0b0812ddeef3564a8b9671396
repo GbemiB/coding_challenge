@@ -1,0 +1,13 @@
+
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï´òìûÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(äÆ¾Ó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ï‹­ó
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(è‰îßúÿÿÿÿ8óÊ¢èó/
+E
+java:S6212"/Declare this local variable with "var" instead.(Şáˆ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢‹¨ÿÿÿÿÿ8÷İ¢èó/
+J
+java:S6212"/Declare this local variable with "var" instead.(äæøÚúÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜°Ä›8óğ¢èó/
